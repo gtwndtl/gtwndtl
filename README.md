@@ -49,7 +49,7 @@ I am a **Software Engineer** and a recent graduate with **6 months of experience
   <a href="https://www.linkedin.com/in/thuwanon-deethala/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="thuwanon.dtl@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
   </a>
 </p>
